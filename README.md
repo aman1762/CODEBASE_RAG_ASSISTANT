@@ -45,7 +45,7 @@ An AI-powered Retrieval-Augmented Generation system that enables natural languag
 - Fully free tech stack
 
 ### Tech Stack
-LangChain, FAISS, HuggingFace Embeddings, FastAPI, Streamlit
+LangChain, FAISS, HuggingFace Embeddings, Streamlit
 
 ### Use Cases
 - Codebase understanding
